@@ -1,8 +1,9 @@
 {
-  "name": "paypal-addon",
-  "fullName": "paypal-addon",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+    "name": "paypal-addon",
+    "license": "MPL 2.0",
+    "author": "Giorgos Logiotatidis <giorgos@mozilla.com>",
+    "version": "0.1",
+    "fullName": "paypal-addon",
+    "id": "jid1-shDljt5dYarFWA",
+    "description": "Basic addon to add 4% to amount being sent."
 }
