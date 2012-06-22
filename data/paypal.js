@@ -15,6 +15,7 @@ $(document).ready(function() {
 		event.preventDefault();
 		amount = $('#amount').val();
 		amount = amount * 1.04;
+		amount = amount.toFixed(2);
 		$('#amount').val(amount);
 		$('#paypal-addon-recalculate').unbind('click');
 		$('#paypal-addon-recalculate').css('color', '#ccc');
